@@ -1,0 +1,88 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-camera": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-device": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-file-opener2": {
+      "ANDROID_SUPPORT_V4_VERSION": "27.+",
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-file-transfer": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-globalization": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-inappbrowser": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-ionic-keyboard": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-local-notification": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-media-capture": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-network-information": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-screen-orientation": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-splashscreen": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-statusbar": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-zip": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-sqlite-storage": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-support-google-services": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "es6-promise-plugin": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "nl.kingsquare.cordova.background-audio": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "phonegap-plugin-multidex": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "phonegap-plugin-push": {
+      "ANDROID_SUPPORT_V13_VERSION": "27.+",
+      "FCM_VERSION": "17.0.+",
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "com-darryncampbell-cordova-plugin-intent": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.itrackglobal.mvpuat"
+    }
+  },
+  "dependent_plugins": {}
+}
